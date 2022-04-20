@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/f0b3b869998f703ea4d1f.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">ＨａｃｈｉｍｉｔｓｕBOT - MULTI DEVICE</h1>
+<h1 align="center">Ｈａｃｈｉｍｉｔｓｕ - MULTI DEVICE</h1>
 
 #### KELEBIHAN
 | Kelebihan | Check |
@@ -224,6 +224,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 
 #### Special Thanks to
+[![kannachann](https://github.com/kannachann.png?size=100)](https://github.com/kannachann)
 [![Adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)
 [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
@@ -232,7 +233,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 [![Saberbotz](https://github.com/Saberbotz.png?size=100)](https://github.com/Saberbotz)
 
 #### Contributor
-[![kannachann](https://github.com/kannachann.png?size=100)](https://github.com/kannachann)
+
 [![sadboy01](https://github.com/sadboy01.png?size=100)](https://github.com/sadboy01)
 [![amiruldev20](https://github.com/amiruldev20.png?size=100)](https://github.com/amiruldev20)
 [![raselcomel](https://github.com/raselcomel.png?size=100)](https://github.com/raselcomel)
