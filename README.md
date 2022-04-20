@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/f0b3b869998f703ea4d1f.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/681a440ca3f6693c131e7.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Ｈａｃｈｉｍｉｔｓｕ - MULTI DEVICE</h1>
 
